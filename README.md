@@ -1,17 +1,5 @@
 # dialogue2023121314
 
-第14回対話システムシンポジウム 参加受付番号: 102 https://us02web.zoom.us/j/83442067359?pwd=d3FlYlpJbUZQeDhaRTcrelFrQ3JwZz09
-
-　 
-//
-
-
-【第14回対話システムシンポジウム】事前参加申し込みを受け付けました
-
-
-
-
-
 --------------------------
 ■ 当日のプログラム
 　https://jsai-slud.github.io/sig-slud/99th-sig.html
